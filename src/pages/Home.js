@@ -50,7 +50,7 @@ const Home = () => {
             >
             
              Mamadou  DIOP <br/>
-             Développeur  Web
+             Architecte Web
             </motion.h1>
             <motion.h2
               drag
